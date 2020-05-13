@@ -4,5 +4,5 @@ Basic concepts: Syntax, flow control, tuples, files, text processing, scraping, 
 I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc), and [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to brush up on concepts and create these projects.
 
 ## Programming Basics
-* Calculator
-* String Manipulator
+* [Calculator](Python-Basics/1-Programming-Basics/Calculator.py)
+* [String Manipulator](Python-Basics/1-Programming-Basics/StringManipulation.py)
