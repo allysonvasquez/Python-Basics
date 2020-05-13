@@ -35,5 +35,3 @@ while True:
         break
     else:
         print('Invalid Input. Please input an option from 1-8!')
-
-
