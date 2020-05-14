@@ -9,7 +9,7 @@ These projects cover basic concepts ranging from syntax review, to using boolean
 * [String Manipulator](Python-Basics/1-Programming-Basics/StringManipulation.py)
   - Manipulation of strings; uses concatenation, substrings, slicing, and other string operators.
 * [Comparison/Boolean Operators](Python-Basics/1-Programming-Basics/Comparison.py)
-- Practice using random operator & boolean/comparison operators with user input
+  - Practice using random operator & boolean/comparison operators with user input
 
 ## Automating Tasks
 In this section I plan to create projects that cover:
