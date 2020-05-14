@@ -6,3 +6,4 @@ I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringst
 ## Programming Basics
 * [Calculator](Python-Basics/1-Programming-Basics/Calculator.py)
 * [String Manipulator](Python-Basics/1-Programming-Basics/StringManipulation.py)
+* [Comparison/Boolean Operators](Python-Basics/1-Programming-Basics/Comparison.py)
