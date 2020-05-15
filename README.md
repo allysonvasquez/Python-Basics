@@ -1,5 +1,5 @@
 # Python Basics
-I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and create basic concepts in python.
+I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
 
 ## Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
@@ -10,9 +10,10 @@ My goal in this section is to simply refresh my memory on python syntax.
   - Manipulation of strings; uses concatenation, substrings, slicing, and other string operators.
 * [Comparison/Boolean Operators](Python-Basics/1-Programming-Basics/Comparison.py)
   - Practice using random operator & boolean/comparison operators with user input
+* [Functions](Python-Basics/1-Programming-Basics/FunctionPractice.py)
+  - Using lists and functions to solve prompts in [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 
 I plan to create projects that cover:
-- Functions
 - Dictionaries & lists
 - Objects/OOP
 
