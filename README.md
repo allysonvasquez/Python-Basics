@@ -1,5 +1,5 @@
 # Python Basics
-I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and create basic concepts in python.
+I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
 
 ## Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
