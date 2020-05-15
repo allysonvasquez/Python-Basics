@@ -12,13 +12,14 @@ My goal in this section is to simply refresh my memory on python syntax.
   - Practice using random operator & boolean/comparison operators with user input
 * [Functions](Python-Basics/1-Programming-Basics/FunctionPractice.py)
   - Using lists and functions to solve prompts in [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
+* [Dictionaries](Python-Basics/1-Programming-Basics/Dictionaries.py)
+  - Notes on dictionaries that cover its syntax and methods
 
-I plan to create projects that cover:
-- Dictionaries & lists
-- Objects/OOP
+Future projects for this section:
+- Classes
 
 ## Automating Tasks
-My goal in this section is to learn more about web scraping (just a personal interest that I've been wanting to get into🥺).
+My goal in this section is to fully understand web scraping (just a personal interest that I've been wanting to get into🥺).
 
 In this section I plan to create projects that cover:
 - Pattern matching
