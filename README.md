@@ -15,6 +15,10 @@ My goal in this section is to simply refresh my memory on python syntax.
 * [Dictionaries](Python-Basics/1-Programming-Basics/Dictionaries.py)
   - Notes on dictionaries that cover its syntax and methods
 
+Future projects/topics for this section:
+- OOP
+- Libraries
+
 ## Automating Tasks
 This section will cover topics that are unfamiliar to me. There will be a mix of in-depth notes and practice projects.
 My goal in this section is to fully understand web scraping (just a personal interest that I've been wanting to get into🥺).
@@ -29,3 +33,9 @@ Future projects/topics for this section:
 - Sending emails/texts
 - Image manipulation
 - GUI automation
+
+## Other/Future Goals
+More of a 'TODO' section:
+- Learn how to use Jupyter Notebook
+- Refresh on Linear Algebra & Statistics
+- Basic AI algorithms
