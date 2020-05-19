@@ -1,6 +1,8 @@
 # Python Basics
 I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
 
+My end goal is to learn about AI/ML concepts, algorithms, and models.
+
 ## Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
 
@@ -38,4 +40,4 @@ Future projects/topics for this section:
 More of a 'TODO' section:
 - Learn how to use Jupyter Notebook
 - Refresh on Linear Algebra & Statistics
-- Basic AI algorithms
+- Create AI/ML Basics Repository
