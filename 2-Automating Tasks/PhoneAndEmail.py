@@ -4,8 +4,11 @@
 
 # https://www.w3resource.com/python-exercises/re/index.php
 
-# TODO: check that a string contains only a certain set of characters(a-z, A-Z and 0-9)
+import re
 
+# TODO: check that a string contains only a certain set of characters(a-z, A-Z and 0-9)
+charRegex = re.compile(r'\d')
+test_str = str('My name is Allyson and I am 20 years old')
 
 # TODO: match a string that contains only upper and lowercase letters, numbers, and underscores
 
