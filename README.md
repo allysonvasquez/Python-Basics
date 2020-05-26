@@ -1,6 +1,8 @@
 # Python Basics
 I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
 
+Some topics use coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
+
 My end goal is to learn about AI/ML concepts, algorithms, and models.
 
 ## Programming Basics
