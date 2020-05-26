@@ -16,9 +16,10 @@ My goal in this section is to simply refresh my memory on python syntax.
   - Using lists and functions to solve prompts in [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 * [Dictionaries](Python-Basics/1-Programming-Basics/Dictionaries.py)
   - Notes on dictionaries that cover its syntax and methods
+* [Classes](Python-Basics/1-Programming-Basics/Classes.py)
+  - Example of class syntax
 
 Future projects/topics for this section:
-- OOP
 - Libraries
 
 ## Automating Tasks
