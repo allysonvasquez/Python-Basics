@@ -21,9 +21,6 @@ My goal in this section is to simply refresh my memory on python syntax.
 * [Classes](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Classes.py)
   - Example of class syntax
 
-Future projects/topics for this section:
-- Libraries
-
 ## Automating Tasks
 This section will cover topics that are unfamiliar to me. There will be a mix of in-depth notes and practice projects.
 My goal in this section is to fully understand web scraping (just a personal interest that I've been wanting to get into🥺).
@@ -31,9 +28,11 @@ My goal in this section is to fully understand web scraping (just a personal int
 * [Pattern Matching](Python-Basics/2-Automating-Tasks/Regexes.py)
   - Notes on Regular Expressions (Regexes)
   - TODO: Practice project to apply understanding of regexes
+* [File I/O](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/FileIO.py)
+  - Notes on File I/O Syntax
+  - TODO: Practice project on FileIO & File organization
 
 Future projects/topics for this section:
-- File I/O
 - Web scraping
 - Sending emails/texts
 - Image manipulation
