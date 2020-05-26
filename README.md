@@ -8,17 +8,17 @@ My end goal is to learn about AI/ML concepts, algorithms, and models.
 ## Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
 
-* [Calculator](Python-Basics/1-Programming-Basics/Calculator.py)
+* [Calculator](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Calculator.py)
   - Review over basic syntax, math operators, and data type casting for variables.
-* [String Manipulator](Python-Basics/1-Programming-Basics/StringManipulation.py)
+* [String Manipulator](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/StringManipulation.py)
   - Manipulation of strings; uses concatenation, substrings, slicing, and other string operators.
-* [Comparison/Boolean Operators](Python-Basics/1-Programming-Basics/Comparison.py)
+* [Comparison/Boolean Operators](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Comparison.py)
   - Practice using random operator & boolean/comparison operators with user input
-* [Functions](Python-Basics/1-Programming-Basics/FunctionPractice.py)
+* [Functions](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/FunctionPractice.py)
   - Using lists and functions to solve prompts in [Python functions - Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
-* [Dictionaries](Python-Basics/1-Programming-Basics/Dictionaries.py)
+* [Dictionaries](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Classes.py)
   - Notes on dictionaries that cover its syntax and methods
-* [Classes](Python-Basics/1-Programming-Basics/Classes.py)
+* [Classes](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Classes.py)
   - Example of class syntax
 
 Future projects/topics for this section:
