@@ -1,11 +1,10 @@
 # author: Allyson Vasquez
-# version: May.15.2020
+# version: May.28.2020
 # Practice: Web Scraping Syntax, uses simple.html
 # https://youtu.be/ng2o98k983k
 
 from bs4 import BeautifulSoup
 import requests
-import lxml
 
 with open('simple.html') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
