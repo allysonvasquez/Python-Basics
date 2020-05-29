@@ -25,20 +25,23 @@ My goal in this section is to simply refresh my memory on python syntax.
 This section will cover topics that are unfamiliar to me. There will be a mix of in-depth notes and practice projects.
 My goal in this section is to fully understand web scraping (just a personal interest that I've been wanting to get into🥺).
 
-* [Pattern Matching](Python-Basics/2-Automating-Tasks/Regexes.py)
-  - Notes on Regular Expressions (Regexes)
+* [Pattern Matching](Python-Basics/2-Automating-Tasks/Regexes.py): Notes on Regular Expressions (Regexes)
   - TODO: Practice project to apply understanding of regexes
-* [File I/O](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/FileIO.py)
-  - Notes on File I/O Syntax
+* [File I/O](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/FileIO.py): Notes on File I/O Syntax
   - TODO: Practice project on FileIO & File organization
-* [Web scraping](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping.py)
-  - Basic web scrape using a simple html [file](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/simple.html) and Corey Shafer's [tutorial](https://youtu.be/ng2o98k983k)
-  - TODO: Practice project: web scrape using real website and data
+* [Web scraping](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping.py): Basic web scrape using a simple html [file](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/simple.html) and Corey Shafer's [tutorial](https://youtu.be/ng2o98k983k)
+  - [Practice project](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping2.py): web scrape using data from [Corey Schafer's](https://coreyms.com) website
 
-Future projects/topics for this section:
+Future topics for this section:
 - Sending emails/texts
 - Image manipulation
 - GUI automation
+
+## Side Projects
+This section will consist of small side projects I create to apply what I learned!
+
+Future project topics:
+- TBD
 
 ## Other/Future Goals
 More of a 'TODO' section:
