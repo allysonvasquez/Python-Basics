@@ -33,12 +33,18 @@ My goal in this section is to fully understand web scraping (just a personal int
   - TODO: Practice project on FileIO & File organization
 * [Web scraping](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping.py)
   - Basic web scrape using a simple html [file](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/simple.html) and Corey Shafer's [tutorial](https://youtu.be/ng2o98k983k)
-  - TODO: Practice project: web scrape using real website and data
+  - [Practice project](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping2.py): web scrape using data from [Corey Schafer's](https://coreyms.com) website
 
-Future projects/topics for this section:
+Future topics for this section:
 - Sending emails/texts
 - Image manipulation
 - GUI automation
+
+## Side Projects
+This section will consist of small side projects I create to apply what I learned!
+
+Future project topics:
+- TBD
 
 ## Other/Future Goals
 More of a 'TODO' section:
