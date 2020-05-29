@@ -32,7 +32,7 @@ My goal in this section is to fully understand web scraping (just a personal int
   - Notes on File I/O Syntax
   - TODO: Practice project on FileIO & File organization
 * [Web scraping](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping.py)
-  - Basic web scrape using a [simple html file](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/simple.html)
+  - Basic web scrape using a simple html [file](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/simple.html) and Corey Shafer's [tutorial](https://youtu.be/ng2o98k983k)
   - TODO: Practice project: web scrape using real website and data
 
 Future projects/topics for this section:
