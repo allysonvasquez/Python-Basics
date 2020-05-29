@@ -40,10 +40,7 @@ Future topics for this section:
 
 ## Side Projects
 This section will consist of small side projects I create to apply what I learned!
-* [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) - Web scrape of the "[Easy Egg Breakfast](https://www.allrecipes.com/gallery/easy-egg-breakfast/)" from allrecipes.com
-
-Future project topics:
-- TBD
+* [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) - Web scrape of the "[Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/)" article from allrecipes.com
 
 ## Other/Future Goals
 More of a 'TODO' section:
