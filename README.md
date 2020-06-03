@@ -46,6 +46,6 @@ This section will consist of small side projects I create to apply what I learne
 
 ## Other/Future Goals
 More of a 'TODO' section:
-- Learn how to use Jupyter Notebook
-- Refresh on Linear Algebra & Statistics
-- Create AI/ML Basics Repository
+- Learn how to use Git and Jupyter Notebook
+- Refresh on Calculus, Linear Algebra, Statistics
+- Create AI/ML Repository
