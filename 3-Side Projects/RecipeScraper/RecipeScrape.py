@@ -3,13 +3,7 @@
 # Scrapes easy breakfast recipe article and saves data to csv file
 # Website used: https://www.allrecipes.com
 
-"""
-Steps
-    -retrieve and get html code of page
-    -analyze html to figure out what tags contain the data (hard part!)
-    -write data to csv file
-"""
-
+# import the stuffs
 from bs4 import BeautifulSoup
 import requests
 import csv
@@ -22,44 +16,25 @@ source = requests.get(url)
 soup = BeautifulSoup(source.content, 'lxml')
 # print(soup.prettify())  # outputs parsed html
 
-# create csv file to hold recipes
 
+# create csv file to hold recipes
 csv_file = open('recipe_scrape.csv', 'w')
 csv_writer = csv.writer(csv_file)
-csv_writer.writerows(['Dish', 'Summary'])
+csv_writer.writerow(['Recipe', 'Summary', 'Recipe Link'])  # creates titles on top row of file
 
+# Scrape data and write into csv file
+for recipe in soup.find_all(class_='glide-slide recipe-slide'):
+    recipe_title = recipe.h3.text.strip()
+    # print(recipe_title)
 
-# figure out where all the information is
-'''
-# Finding first title in page
-print('Analyzing First Recipe Title:')
-recipe_title = soup.find('h3', class_='glide-slide-title')
-recipe_title = recipe_title.text.strip()  # remove whitespaces
-print(recipe_title)
+    recipe_summary = recipe.p.text.strip()
+    # print(recipe_summary)
 
-# Finding first summary in page
-print('Analyzing First Summary:')
-recipe_summary = soup.find('div', class_='glide-slide-desc')
-print(recipe_summary.p.text)
+    recipe_link = recipe.find('a', title="View Recipe").attrs['href']
+    # print(recipe_link)
 
-print()
-'''
+    # print()
 
-# TODO: FIX CSV FILE FORMAT!!! (super broken) - put everything in 1 loop
-# Loop to collect data
-# Now that we know where it is...Scrape all titles
-for title in soup.find_all('h3', class_='glide-slide-title'):
-    recipe_title = title.text.strip()  # remove whitespaces
-    print(recipe_title)
-    csv_writer.writerow([recipe_title])  # Write data to csv file
-
-# Scrape all summaries
-for summary in soup.find_all('div', class_='glide-slide-desc'):
-    recipe_summary = summary.p.text
-    print(recipe_summary, '\n')
-    csv_writer.writerow([recipe_summary])  # Write data to csv file
+    csv_writer.writerow([recipe_title, recipe_summary, recipe_link])  # write data to csv
 
 csv_file.close()
-
-
-# TODO: Add recipe link to csv file
