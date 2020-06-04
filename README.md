@@ -1,9 +1,8 @@
 # Python Basics
-I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
-
-I also follow the [Automate the Boring Stuff](https://www.udemy.com/course/automate/) course on Udemy for the Automating Tasks section.
-
-Some topics use coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
+Sources Used:
+* Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
+* Academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/)
+* Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
 My end goal is to learn about AI/ML concepts, algorithms, and models.
 
@@ -41,8 +40,9 @@ Future topics for this section:
 - GUI automation
 
 ## Side Projects
-This section will consist of small side projects I create to apply what I learned!
+This section will consist of side projects I create to apply what I learned!
 * [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) - Web scrape of the "[Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/)" article from allrecipes.com
+
 
 ## Other/Future Goals
 More of a 'TODO' section:
