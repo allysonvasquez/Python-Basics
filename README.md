@@ -42,7 +42,15 @@ Future topics for this section:
 
 ## Side Projects
 This section will consist of side projects I create to apply what I learned!
-* [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) - Web scrape of the "[Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/)" article from allrecipes.com
+### Recipe Scrape
+[RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) scrapes the [Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/) article from allrecipes.com. 
+
+The current purpose of RecipeScrape is to collect the simplest-to-make egg recipes and format the data into an easy to read table. I will be personally cooking and eating the recipes mentioned... to ensure that they are worhty of being listed.
+#### Problems
+The biggest issue I had was figuring out the html attributes and tags in order to parse all of the data and links. My knowledge in html is basic, so this was a slight learning curve.
+  - Reading through Dataquest's [tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/) helped immensely with being able to identify tags.
+#### How to Improve This Project
+I would like to reformat the third column of the recipe table so that it displays the actual recipe instead of a link to the recipe online. (currently working on this!)
 
 
 ## Other/Future Goals
