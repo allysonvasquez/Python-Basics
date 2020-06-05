@@ -1,11 +1,11 @@
 # Python Basics
-I am using Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) and peer-reviewed academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/) as guides to review and practice basic concepts in python.
+The purpose of this repository is to brush up on my Python skills and implement old & new concepts learned to different types of scripts.
+My end goal is to apply what I learn to AI/ML concepts, algorithms, and models.
 
-I also follow the [Automate the Boring Stuff](https://www.udemy.com/course/automate/) course on Udemy for the Automating Tasks section.
-
-Some topics use coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
-
-My end goal is to learn about AI/ML concepts, algorithms, and models.
+Sources Used:
+* Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
+* Academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/)
+* Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
 ## Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
@@ -41,8 +41,17 @@ Future topics for this section:
 - GUI automation
 
 ## Side Projects
-This section will consist of small side projects I create to apply what I learned!
-* [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) - Web scrape of the "[Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/)" article from allrecipes.com
+This section will consist of side projects I create to apply what I learned!
+### Recipe Scrape
+[RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) scrapes the [Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/) article from allrecipes.com. 
+
+The current purpose of RecipeScrape is to collect the simplest-to-make egg recipes and format the data into an easy to read table. I will be personally cooking and eating the recipes mentioned... to ensure that they are worhty of being listed.
+#### Problems
+The biggest issue I had was figuring out the html attributes and tags in order to parse all of the data and links. My knowledge in html is basic, so this was a slight learning curve.
+  - Reading through Dataquest's [tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/) helped immensely with being able to identify tags.
+#### How to Improve This Project
+I would like to reformat the third column of the recipe table so that it displays the actual recipe instead of a link to the recipe online. (currently working on this!)
+
 
 ## Other/Future Goals
 More of a 'TODO' section:
