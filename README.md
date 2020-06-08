@@ -59,6 +59,6 @@ Reformatting the third column of the recipe table to display the actual recipe i
 
 ## Other/Future Goals
 More of a 'TODO' section:
-- Learn how to use Git and Jupyter Notebook
+- Get comfortable using Git and Jupyter Notebook
 - Refresh on Calculus, Linear Algebra, Statistics
 - Create AI/ML Repository
