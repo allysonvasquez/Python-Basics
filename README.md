@@ -1,6 +1,6 @@
 # Python Basics
-The purpose of this repository is to brush up on my Python skills and implement old & new concepts learned to different types of scripts.
-My end goal is to apply what I learn to AI/ML concepts, algorithms, and models.
+The purpose of this repository is to brush up on my Python skills and implement old & new concepts into different types of scripts.
+My end goal is to apply what I learn to future AI/ML concepts, algorithms, and models.
 
 Sources Used:
 * Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
