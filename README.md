@@ -35,6 +35,8 @@ My goal in this section is to fully understand web scraping (just a personal int
   - [Practice project](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping2.py) - web scrape using data from [Corey Schafer's](https://coreyms.com) website
   - [Requests](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/Requests.py) - Notes on requests library for use in web scraping
 * [Excel, Word, PDF](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Excel_Word_PDF.py) - Notes on reading, writing, and editing data in these formats
+* [Time & Scheduling](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Time.py) - Notes on time modules, automating scripts on a schedule
+  - [Stopwatch](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Stopwatch.py) - Simple stopwatch script. Is a follow-along project in Automate the Boring Stuff Ch.15
 
 Future topics for this section:
 - Sending emails/texts
