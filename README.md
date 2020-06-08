@@ -44,7 +44,7 @@ Future topics for this section:
 - GUI automation
 
 ## Side Projects
-This section will consist of side projects I create to apply what I learned!
+This section will consist of side projects I create on my own to apply what I learned! It allows me to practice the basic development steps needed to create larger projects.
 ### Recipe Scrape
 [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) scrapes the [Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/) article from allrecipes.com. 
 
