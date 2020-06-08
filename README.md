@@ -4,7 +4,7 @@ My end goal is to apply what I learn to future AI/ML concepts, algorithms, and m
 
 Sources Used:
 * Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
-* Academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/)
+* Youtube videos from [Corey Schafer](https://www.youtube.com/user/schafer5)
 * Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
 ## Programming Basics
@@ -35,6 +35,8 @@ My goal in this section is to fully understand web scraping (just a personal int
   - [Practice project](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/WebScraping2.py) - web scrape using data from [Corey Schafer's](https://coreyms.com) website
   - [Requests](https://github.com/allysonvasquez/Python-Basics/blob/master/2-Automating%20Tasks/Requests.py) - Notes on requests library for use in web scraping
 * [Excel, Word, PDF](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Excel_Word_PDF.py) - Notes on reading, writing, and editing data in these formats
+* [Time & Scheduling](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Time.py) - Notes on time modules, automating scripts on a schedule
+  - [Stopwatch](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Stopwatch.py) - Simple stopwatch script. Is a follow-along project in Automate the Boring Stuff Ch.15
 
 Future topics for this section:
 - Sending emails/texts
@@ -42,7 +44,7 @@ Future topics for this section:
 - GUI automation
 
 ## Side Projects
-This section will consist of side projects I create to apply what I learned!
+This section will consist of side projects I create on my own to apply what I learned! It allows me to practice the basic development steps needed to create larger projects.
 ### Recipe Scrape
 [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) scrapes the [Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/) article from allrecipes.com. 
 
