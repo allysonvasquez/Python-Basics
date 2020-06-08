@@ -51,7 +51,7 @@ The current purpose of RecipeScrape is to collect the simplest-to-make egg recip
 The biggest issue I had was figuring out the html attributes and tags in order to parse all of the data and links. My knowledge in html is basic, so this was a slight learning curve.
   - Reading through Dataquest's [tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/) helped immensely with being able to identify tags.
 #### How to Improve This Project
-I would like to reformat the third column of the recipe table so that it displays the actual recipe instead of a link to the recipe online. (currently working on this!)
+Reformatting the third column of the recipe table to display the actual recipe instead of a link to the recipe online.
 
 
 ## Other/Future Goals
