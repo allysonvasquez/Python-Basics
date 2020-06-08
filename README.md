@@ -4,7 +4,7 @@ My end goal is to apply what I learn to future AI/ML concepts, algorithms, and m
 
 Sources Used:
 * Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
-* Academic journal [The Programming Historian](http://programminghistorian.org/en/lessons/)
+* Youtube videos from [Corey Schafer](https://www.youtube.com/user/schafer5)
 * Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
 ## Programming Basics
