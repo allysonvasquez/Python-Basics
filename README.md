@@ -37,6 +37,7 @@ My goal in this section is to fully understand web scraping (just a personal int
 * [Excel, Word, PDF](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Excel_Word_PDF.py) - Notes on reading, writing, and editing data in these formats
 * [Time & Scheduling](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Time.py) - Notes on time modules, automating scripts on a schedule
   - [Stopwatch](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Stopwatch.py) - Simple stopwatch script. Is a follow-along project in Automate the Boring Stuff Ch.15
+  - [Multithreading](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/threadDemo.py) - Notes on multithreading basics
 
 Future topics for this section:
 - Sending emails/texts
@@ -58,6 +59,6 @@ Reformatting the third column of the recipe table to display the actual recipe i
 
 ## Other/Future Goals
 More of a 'TODO' section:
-- Learn how to use Git and Jupyter Notebook
+- Get comfortable using Git and Jupyter Notebook
 - Refresh on Calculus, Linear Algebra, Statistics
 - Create AI/ML Repository
