@@ -39,9 +39,9 @@ My goal in this section is to fully understand web scraping (just a personal int
   - [Stopwatch](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Stopwatch.py) - Simple stopwatch script. Is a follow-along project in Automate the Boring Stuff Ch.15
   - [Multithreading](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/threadDemo.py) - Notes on multithreading basics
 * [Image Manipulation](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Image%20Manipulation/Image_Manipulation.ipynb) - Notes on basic image manipulation, using cute bears as references.
+* [Sending Mail](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Mail_Demo.py) - Notes on sending emails through Python (SMTP Server)
 
 Topics left for this section:
-- Sending emails/texts
 - GUI automation
 
 ## Side Projects
