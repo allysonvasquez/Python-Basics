@@ -7,7 +7,7 @@ Sources Used:
 * Youtube videos from [Corey Schafer](https://www.youtube.com/user/schafer5)
 * Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
-## Programming Basics
+# Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
 
 * [Calculator](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Calculator.py)
@@ -23,7 +23,7 @@ My goal in this section is to simply refresh my memory on python syntax.
 * [Classes](https://github.com/allysonvasquez/Python-Basics/blob/master/1-Programming%20Basics/Classes.py)
   - Example of class syntax
 
-## Automating Tasks
+# Automating Tasks
 This section will cover topics that are unfamiliar to me. There will be a mix of in-depth notes and practice projects.
 My goal in this section is to fully understand web scraping (just a personal interest that I've been wanting to get into🥺).
 
@@ -44,9 +44,9 @@ My goal in this section is to fully understand web scraping (just a personal int
 Topics left for this section:
 - GUI automation
 
-## Side Projects
-This section will consist of side projects I create on my own to apply what I learned! It allows me to practice the basic development steps needed to create larger projects.
-### Recipe Scrape
+# Side Projects
+This section will consist of side projects/scripts I create on my own to apply what I learned! It allows me to practice the basic development steps needed to create larger projects.
+## Recipe Scrape
 [RecipeScrape](https://github.com/allysonvasquez/Python-Basics/tree/master/3-Side%20Projects/RecipeScraper) scrapes the [Breakfast Eggs Ready](https://www.allrecipes.com/gallery/easy-egg-breakfast/) article from allrecipes.com. 
 
 The current purpose of RecipeScrape is to collect the simplest-to-make egg recipes and format the data into an easy to read table. I will be personally cooking and eating the recipes mentioned... to ensure that they are worhty of being listed.
@@ -55,6 +55,17 @@ The biggest issue I had was figuring out the html attributes and tags in order t
   - Reading through Dataquest's [tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/) helped immensely with being able to identify tags.
 #### How to Improve This Project
 Reformatting the third column of the recipe table to display the actual recipe instead of a link to the recipe online.
+
+## Photo Resizer
+[PosterResizer](https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/Resizer.py) is a simple script to resize downloaded images into an 8x10 format for photo printing. I created this script to convert all my pinterest photos into a single size to print and create a wall collage in my bedroom!
+
+#### Before -> After
+<img src="https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/original_pictures/pic8.jpg" width="200">  <img src="https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/pngs/pic8.png" width="200">
+
+#### Problems
+Initial issues with resizing the images while maintaining aspect ratio.
+#### How to Improve This Project
+Optimizing the for loop for faster reformatting.
 
 
 ## Other/Future Goals
