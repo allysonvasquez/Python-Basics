@@ -57,7 +57,7 @@ The biggest issue I had was figuring out the html attributes and tags in order t
 Reformatting the third column of the recipe table to display the actual recipe instead of a link to the recipe online.
 
 ## Photo Resizer
-[PosterResizer](https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/Resizer.py) is a simple script to resize downloaded images into an 8x10 format for photo printing. I created this script to convert all my pinterest photos into a single size to print and create a wall collage in my bedroom!
+[PosterResizer](https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/Resizer.py) is a simple script to resize downloaded images into an 8x10 format for photo printing. I created this script to convert all my pinterest photos into a uniform size to print and create a wall collage in my bedroom!
 
 #### Before -> After
 <img src="https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/original_pictures/pic8.jpg" width="200">  <img src="https://github.com/allysonvasquez/Python-Portfolio/blob/master/3-Side%20Projects/PosterResizer/pngs/pic8.png" width="200">
