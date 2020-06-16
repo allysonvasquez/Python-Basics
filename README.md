@@ -7,6 +7,11 @@ Sources Used:
 * Youtube videos from [Corey Schafer](https://www.youtube.com/user/schafer5)
 * Coding exercises from [w3resource](https://www.w3resource.com/python/python-tutorial.php)
 
+## Index
+- [Programming Basics](#Programming-Basics)
+- [Automating Tasks](#Automating-Tasks)
+- [Side Projects/Scripts](#Side-Projects)
+
 # Programming Basics
 My goal in this section is to simply refresh my memory on python syntax.
 
