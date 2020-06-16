@@ -46,9 +46,6 @@ My goal in this section is to fully understand web scraping (just a personal int
 * [Image Manipulation](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Image%20Manipulation/Image_Manipulation.ipynb) - Notes on basic image manipulation, using cute bears as references.
 * [Sending Mail](https://github.com/allysonvasquez/Python-Portfolio/blob/master/2-Automating%20Tasks/Mail_Demo.py) - Notes on sending emails through Python (SMTP Server)
 
-Topics left for this section:
-- GUI automation
-
 # Side Projects
 This section will consist of side projects/scripts I create on my own to apply what I learned! It allows me to practice the basic development steps needed to create larger projects.
 ## Recipe Scrape
