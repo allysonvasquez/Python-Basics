@@ -72,7 +72,7 @@ Optimizing the for loop for faster reformatting.
 ## Weather Scrape
 [WeatherScrape](https://github.com/allysonvasquez/Python-Projects/blob/master/3-Side%20Projects/LungScrape/weather_scrape.py) scrapes weather.com in my current location to output current information on humidity, UV index, and air quality index. I need this information because I only have one lung and going outside when these factors are too high causes breathing problems.
 #### How to Improve This Project
-I would like to explore HTML and create a website that displays this information in a sleek, clean UI.
+I would like to explore GUI programming and create a UI for the scraped information.
 
 ## Other/Future Goals
 More of a 'TODO' section:
